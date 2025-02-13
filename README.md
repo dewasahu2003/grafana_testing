@@ -1,7 +1,7 @@
 # 📊 Grafana Transaction Monitoring
 
 ## 🔍 Overview
-[Likedin Video Link](https://www.linkedin.com/posts/dewasahu_grafana-aws-postgresql-activity-7295869490007871488-y85D?utm_source=share&utm_medium=member_desktop) 
+[Linkedin Video Link](https://www.linkedin.com/posts/dewasahu_grafana-aws-postgresql-activity-7295869490007871488-y85D?utm_source=share&utm_medium=member_desktop) 
 
 This project integrates Grafana with an AWS RDS PostgreSQL database for monitoring real-time transactions. It includes a Python script that generates synthetic transaction data, applies simple fraud detection rules for understanding, and stores the data in a PostgreSQL database hosted on AWS.
 
